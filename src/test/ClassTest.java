@@ -10,7 +10,7 @@ public class ClassTest {
 	}
 	
 	public static void TestBranche() {
-		System.out.println("Branche Test");
+		System.out.println("Branche Test 2");
 	}
 
 }
